@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Chat",
+  "description": "An advanced conversational chatbot with real-time image analysis, API key grouping, and dynamic agent configurations in a stunning gold-accented theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
